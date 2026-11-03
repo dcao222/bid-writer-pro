@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 生成产物
+*.docx
+output/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+
+# 本地配置
+config.local.yaml
